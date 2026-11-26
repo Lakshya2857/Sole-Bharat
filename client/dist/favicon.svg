@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <!-- Subtle rounded tile background -->
+  <rect width="128" height="128" rx="28" fill="#1c1917"/>
+  
+  <!-- Angled Sneaker Group -->
+  <g transform="translate(18, 22) rotate(-15 46 42)">
+    <!-- Natural Amber Gum Sole -->
+    <path d="M12 56C10 56 6 52 4 48C4 44 14 42 26 42C38 42 70 43 82 46C86 47 88 51 86 54C84 57 74 58 64 58C52 58 20 56 12 56Z" fill="#b45309" stroke="#78350f" stroke-width="2"/>
+    
+    <!-- Tumbled Leather Ecru Upper -->
+    <path d="M6 46C5 38 10 32 18 28C22 26 26 27 30 29C34 22 42 16 52 14C56 13 60 16 62 20C65 24 67 27 72 30C78 33 84 38 85 43C86 48 80 48 76 47C62 44 24 43 6 46Z" fill="#f5f0e8" stroke="#d6d0c4" stroke-width="2"/>
+    
+    <!-- Blue/Maroon Signature Wave Leather Stripe -->
+    <path d="M22 38C30 36 38 37 46 32C52 28 58 27 66 31C68 32 64 36 58 37C48 39 38 43 24 43C20 43 20 39 22 38Z" fill="#3b82f6"/>
+    
+    <!-- Laces and Tongue -->
+    <path d="M44 26L52 28M42 30L50 32M40 34L48 36" stroke="#44403c" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Perforated Toe Dots -->
+    <circle cx="72" cy="40" r="1.5" fill="#a8a29e"/>
+    <circle cx="76" cy="42" r="1.5" fill="#a8a29e"/>
+    <circle cx="79" cy="44" r="1.5" fill="#a8a29e"/>
+  </g>
+</svg>
+
